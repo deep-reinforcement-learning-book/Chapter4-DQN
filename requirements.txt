@@ -1,4 +1,4 @@
-tensorflow-gpu==2.0.1
+tensorflow-gpu==2.0.3
 gym[atari]==0.15.3
 opencv-python==4.1.1.26
 matplotlib==3.1.1
